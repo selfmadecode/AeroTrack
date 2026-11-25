@@ -426,3 +426,5 @@ FodyWeavers.xsd
 #*.lscache
 
 data/drone_video.mov
+# VisDrone dataset
+datasets/
